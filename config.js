@@ -1,4 +1,4 @@
 eiConfig = {
-    base : locateBase() ,
+    base : locateServerBase() ,
     ust : "UTF-8"
 }
